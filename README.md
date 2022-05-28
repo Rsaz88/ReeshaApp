@@ -5,9 +5,9 @@
 ### 1- Using ngrok link : 
 http://c379-35-247-48-116.ngrok.io/
 
-####Tips:
--Ignore safety warnings and proceed 
-- try another browser 
+Tips:
+- Use test image in this repo or other similar images
+-If the link is not working , gnore safety warnings and proceed or try another browser 
 
 ### 2- Locally :
 if the link did not work you can download the files from this repo and run the following commands :
