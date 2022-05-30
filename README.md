@@ -5,7 +5,7 @@
 
 ### 1- Using ngrok link : 
 
-[http://2aebeaf2e2cf.ngrok.io/](http://66b8662f996c.ngrok.io/)
+http://66b8662f996c.ngrok.io/
 
 
 Tips:
