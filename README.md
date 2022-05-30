@@ -2,7 +2,10 @@
 
 ## How To Run ? 
 
-### 1- Using ngrok link : 
+## 1- Using Render link:
+https://reesha.onrender.com
+
+### 2- Using ngrok link : 
 http://c379-35-247-48-116.ngrok.io/
 
 Tips:
