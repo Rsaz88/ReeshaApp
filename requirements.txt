@@ -6,4 +6,5 @@ Flask
 easyocr
 ar-corrector
 Gunicorn
+pandas
 
