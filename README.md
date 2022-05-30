@@ -7,7 +7,6 @@
 
 http://2aebeaf2e2cf.ngrok.io/
 
-http://47bdbc08113d.ngrok.io/
 
 Tips:
 - Use test image in this repo or other similar images
