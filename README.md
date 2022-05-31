@@ -4,8 +4,7 @@
 
 
 ### 1- Using ngrok link : 
-http://6e6373ba492e.ngrok.io
-
+http://a520d214476b.ngrok.io
 
 Tips:
 - Use test image in this repo or other similar images
